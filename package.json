@@ -5,6 +5,10 @@
   "keywords": [
     ";"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crown/aimpexx.git"
+  },
   "license": "ISC",
   "author": "crown",
   "type": "commonjs",
